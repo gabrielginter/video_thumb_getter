@@ -1,3 +1,8 @@
+## 0.1.3
+
+* Package upgrade
+
+
 ## 0.1.2
 
 * Fix on namespaces for iOS and Android

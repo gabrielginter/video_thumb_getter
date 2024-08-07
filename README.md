@@ -25,7 +25,7 @@ Warning:
 add [video_thumb_getter](https://pub.dev/packages/video_thumb_getter) as a dependency in your pubspec.yaml file.
 ```yaml
 dependencies:
-  video_thumb_getter: ^0.1.2
+  video_thumb_getter: ^0.1.3
 ```
 **import**
 ```dart
